@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : BACQ
+- prénom : Issa
+- URL Netlify : https://mellow-horse-91d622.netlify.app
 
 # Travail
 
